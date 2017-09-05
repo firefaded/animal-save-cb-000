@@ -16,3 +16,7 @@ html {
     top: 0;
   }
 }
+
+div {
+  display: block;
+}
